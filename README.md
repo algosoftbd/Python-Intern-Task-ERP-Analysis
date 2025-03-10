@@ -9,7 +9,7 @@ This task evaluates your ability to process EEG data, extract event-related pote
 **Dataset**
 -----------
 
-You are provided with an **EDF file** named John\_Brain\_Data.edf, which contains EEG recordings with event markers for two stimulus types:
+You are provided with an **EDF file** named `John_Brain_Data.edf`, which contains EEG recordings with event markers for two stimulus types:
 
 *   **Common Stimuli**
     
