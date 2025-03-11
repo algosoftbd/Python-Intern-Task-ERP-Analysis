@@ -12,9 +12,9 @@ This task evaluates your ability to process EEG data, extract event-related pote
 You are provided with an **EDF file** named John_Brain_Data.edf, which contains EEG recordings with event markers.
 Stimuli are categorized based on their **trigger duration:**
 
-*   **Common Stimuli → If trigger duration is below 100 ms**
-*   **Uncommon Stimuli → If trigger duration is between 100 ms and 140 ms**
-*   **Super Trigger → If trigger duration is above 140 ms (Ignore these)**
+*   **Common Stimuli →** If trigger duration is **below 100 ms**
+*   **Uncommon Stimuli →** If trigger duration is **between 100 ms and 140 ms**
+*   **Super Trigger →** If trigger duration is **above 140 ms** (Ignore these)
 
 
 **Your Task**
