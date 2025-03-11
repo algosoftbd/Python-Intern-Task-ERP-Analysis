@@ -54,7 +54,7 @@ Stimuli are categorized based on their **trigger duration:**
     
 *   Share the **Colab Notebook link** with **mubin@algosoftbd.com**.
     
-*   Use the **email subject**:**"Python Developer Internship - ERP Analysis Submission - \[Your Name\]"**
+*   Use the email subject: **"Python Developer Internship - ERP Analysis Submission - \[Your Name\]"**
     
 
 **Hints & Resources**
