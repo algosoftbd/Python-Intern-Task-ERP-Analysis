@@ -22,7 +22,7 @@ Stimuli are categorized based on their **trigger duration:**
 
 1.  **Load the EEG Data**
     
-    *   Use MNE-Python to read John\_Brain\_Data.edf.
+    *   Use MNE-Python to read `John_Brain_Data.edf`
         
 2.  **Preprocess the EEG Data**
     
